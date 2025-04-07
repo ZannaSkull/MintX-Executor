@@ -54,7 +54,7 @@ We welcome contributions from the community! Feel free to fork this repository, 
 
 ## 📞 Support
 
-For any issues or inquiries, please open an issue in this repository or contact our support team.
+For any issues or inquiries, please open an issue in this repository.
 
 ---
 
