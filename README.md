@@ -1,5 +1,9 @@
 # MintX Executor
 
+<p align="center">
+<img src="https://i.pinimg.com/736x/ad/67/1d/ad671d720c7ad28cc235da9b2f717c36.jpg", width="500", height="500">
+</p>
+
 Welcome to **MintX**, the ultimate Roblox script executor designed for a seamless and secure experience. With cutting-edge features and robust security, MintX is built for both novice and experienced users who want to elevate their Roblox gameplay.
 
 ---
